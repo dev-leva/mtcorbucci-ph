@@ -40,7 +40,7 @@ body {
   width: 100%;
 }
 .pad-allestimento { padding: 35% 15px 10% 15px;  padding: 35vh 15px 10vh 15px;}
-.cover-heading {font-size: 40px; font-weight:normal; font-family: 'Playfair Display', serif;}
+.cover-heading {font-size: 40px; font-weight:normal; font-family: 'Playfair Display', serif; text-shadow: 0px 0px 4px rgba(0,0,0,1);}
 a.cover-heading {text-decoration: none; cursor: pointer;}
 a.cover-heading:hover {text-decoration: underline;}
 .color-1 {color:#fff;}
